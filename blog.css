@@ -1,0 +1,21 @@
+body{
+	width: 50%;
+	border: 20px solid	gray;
+	padding: 20px;
+	margin:0 25%;
+}
+.date{
+	color: #0460d1;
+	letter-spacing: 3px;
+	text-transform: uppercase;
+}
+h2{
+	font-weight: 600;
+}
+.indent{
+	border-left: 5px solid gray;
+	padding-left: 5px;
+}
+hr{
+	box-shadow: 0 0 10px 1px black;
+}
